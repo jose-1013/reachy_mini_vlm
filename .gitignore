@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+reachy_env/
+vlm_env/
+
+# Environment file
+.env
+
+# VSCode
+.vscode/
+
+# Images
+*.jpg
