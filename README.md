@@ -114,7 +114,7 @@ python vlm_server2.py
 # Terminal 5 — Detection Server
 cd reachy_mini_vlm
 reachy_env\Scripts\activate
-python detect_server.py
+python dual_reachy_server.py
 
 # Terminal 6 — Dual Robot Search
 cd reachy_mini_vlm
